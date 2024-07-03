@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+; brave version: 127.1.69.73
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]
+"BraveRewardsDisabled"=dword:00000001
+"BraveWalletDisabled"=dword:00000001
+"BraveVPNDisabled"=dword:00000001
+"BraveAIChatEnabled"=dword:00000000
+"NewTabPageLocation"="https://start.duckduckgo.com"
+"PasswordManagerEnabled"=dword:00000000

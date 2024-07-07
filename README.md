@@ -23,12 +23,12 @@ Brave debullshitinator uses [group policies](https://support.brave.com/hc/en-us/
 
 # Installation
 
-Windows:
+Windows: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#windows
 
-Linux:
+Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 
 -------
 
 # Customizing
 
-Please see the wiki for instructions on how to change modifications.
+[Please see the wiki for instructions on how to change modifications.](https://github.com/MulesGaming/brave-debullshitinator/wiki/Customization)

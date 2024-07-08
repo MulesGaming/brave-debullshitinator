@@ -3,6 +3,7 @@
     "BraveWalletDisabled": true,
     "BraveVPNDisabled": 1,
     "BraveAIChatEnabled": false,
+    "IPFSEnabled": false,
     "NewTabPageLocation": "https://start.duckduckgo.com",
     "PasswordManagerEnabled": false
 }

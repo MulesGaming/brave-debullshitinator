@@ -5,5 +5,6 @@
     "BraveAIChatEnabled": false,
     "IPFSEnabled": false,
     "NewTabPageLocation": "https://search.brave.com",
-    "PasswordManagerEnabled": false
+    "PasswordManagerEnabled": false,
+    "TorDisabled": true
 }

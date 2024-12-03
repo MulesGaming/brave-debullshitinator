@@ -13,6 +13,7 @@ The following items are disabled by appling brave debullshitinator:
 * IPFS protocol
 * Changes Brave's ad-ridden homepage to [search.brave.com](https://search.brave.com)
 * Disables the password manager (I recommend using a third party password manager such as [Bitwarden](https://bitwarden.com) or [Proton Pass](https://proton.me/pass) that isn't tied to Brave sync or any one browser.)
+* Disabled Brave's Tor integration as it is insecure.
 
 -------
 

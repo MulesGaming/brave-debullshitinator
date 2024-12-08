@@ -3,7 +3,6 @@
     "BraveWalletDisabled": true,
     "BraveVPNDisabled": 1,
     "BraveAIChatEnabled": false,
-    "IPFSEnabled": false,
     "NewTabPageLocation": "https://search.brave.com",
     "PasswordManagerEnabled": false,
     "TorDisabled": true

@@ -4,6 +4,7 @@
     "BraveVPNDisabled": 1,
     "BraveAIChatEnabled": false,
     "NewTabPageLocation": "https://search.brave.com",
+    "TorDisabled": true,
     "PasswordManagerEnabled": false,
-    "TorDisabled": true
+    "DnsOverHttpsMode": "automatic"
 }

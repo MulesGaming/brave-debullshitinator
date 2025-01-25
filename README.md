@@ -10,7 +10,7 @@ The following items are disabled by appling brave debullshitinator:
 * Brave rewards & Wallet
 * Brave VPN
 * Brave AI/Leo (some people may like Leo, in which case you can reenable it following the [customization guide](https://github.com/MulesGaming/brave-debullshitinator/wiki/Customization))
-* Changes Brave's ad-ridden homepage to [search.brave.com](https://search.brave.com)
+* Changes Brave's ad-ridden homepage to [search.brave.com](https://search.brave.com) (*Only available on linux*)
 * Disables the password manager (I recommend using a third party password manager such as [Bitwarden](https://bitwarden.com) or [Proton Pass](https://proton.me/pass) that isn't tied to Brave sync or any one browser.)
 * Disabled Brave's Tor integration as it is insecure.
 

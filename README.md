@@ -1,5 +1,5 @@
 # brave-debullshitinator
-Removes unessasary bloat from Brave Browser.
+Removes unnecessary bloat from Brave Browser.
 
 -------
 

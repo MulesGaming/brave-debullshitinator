@@ -28,6 +28,8 @@ Windows: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation
 
 Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 
+MacOS: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#macos
+
 -------
 
 # Customizing

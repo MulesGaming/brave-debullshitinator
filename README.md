@@ -25,6 +25,7 @@ Brave debullshitinator uses [group policies](https://support.brave.com/hc/en-us/
 # Installation
 
 Windows: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#windows
+Note: I recommend using Slim Brace if your on windows as it does a similar thing as [brave debullshitinator](https://github.com/ltx0101/SlimBrave) but provides more customization via a gui.
 
 Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 

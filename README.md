@@ -29,6 +29,8 @@ Note: I recommend using Slim Brace if your on windows as it does a similar thing
 
 Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 
+MacOS: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#macos
+
 -------
 
 # Customizing

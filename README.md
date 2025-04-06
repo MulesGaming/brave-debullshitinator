@@ -27,6 +27,8 @@ Brave debullshitinator uses [group policies](https://support.brave.com/hc/en-us/
 Windows: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#windows
 Note: I recommend using Slim Brace if your on windows as it does a similar thing as [brave debullshitinator](https://github.com/ltx0101/SlimBrave) but provides more customization via a gui.
 
+MacOS: We currently do not support MacOS, but just need testers for MacOS. Please see [pull request #6](https://github.com/MulesGaming/brave-debullshitinator/pull/6) for more information if you are interested in bringing this tool to mac.
+
 Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
 
 -------
@@ -34,3 +36,7 @@ Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-i
 # Customizing
 
 [Please see the wiki for instructions on how to change modifications.](https://github.com/MulesGaming/brave-debullshitinator/wiki/Customization)
+
+# Additional Resources
+
+You can check out similar tools [here](https://github.com/MulesGaming/brave-debullshitinator/wiki/Additional-Resources#other-tools) and see domains to blacklist with your dns [here](https://github.com/MulesGaming/brave-debullshitinator/wiki/Additional-Resources#brave-telemetrytracking-dns-blacklists)
